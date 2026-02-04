@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>open-admin-example</artifactId>
+    <artifactId>open-mall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>open-admin-example</name>
+
 
     <properties>
         <java.version>17</java.version>
